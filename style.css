@@ -5,14 +5,20 @@
     
 }
 #main{
-    padding:2vw;
+    padding:1vw;
     margin:0;
     background-color: rgb(245, 246, 228);    
 }
+h1{
+    display: inline;
+}
+h2{
+    display: inline;
+}
 img{
-    padding:0 2vw;
-    width:12vw;
-    height:10vw;
+    margin:1vw;
+    width:4vw;
+    height:3vw;
 }
 #counter{
     display:block;
@@ -48,7 +54,7 @@ img{
     border-color: rgb(38, 163, 216);
     width:calc(100%/3);
     text-align:center;
-    padding-top:3vw;
+    padding-top:2vw;
     font-size: 20px;
     font-style: bold;
     cursor:pointer;
