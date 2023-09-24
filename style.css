@@ -80,6 +80,7 @@ img{
     text-decoration:underline;
     text-align: center;
 }
+<<<<<<< HEAD
 #title button{
     padding: 4px 10px;
     background-color: rgba(136, 233, 244,1);
@@ -91,3 +92,5 @@ img{
     transition: all 0.3s ease 0s;
     background-color: rgba(136, 233, 244,0.5);  
 }
+=======
+>>>>>>> 1451e36e4f97c728732204681b0e3a98a4356f27
