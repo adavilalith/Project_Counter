@@ -13,9 +13,13 @@
     padding:2px 5%;
     background-color: rgb(45, 164, 233);
 }
+#title-text{
+    padding: 1vw 1vw;
+}
 #logo img{
     float:left; 
-    width:fit-content ;    
+    width:fit-content ;  
+
 }
 #logo{
     margin-right: auto;
@@ -80,17 +84,3 @@ img{
     text-decoration:underline;
     text-align: center;
 }
-<<<<<<< HEAD
-#title button{
-    padding: 4px 10px;
-    background-color: rgba(136, 233, 244,1);
-    border:none;
-    cursor: pointer;
-    border-radius: 50px;
-}
-#title button:hover{
-    transition: all 0.3s ease 0s;
-    background-color: rgba(136, 233, 244,0.5);  
-}
-=======
->>>>>>> 1451e36e4f97c728732204681b0e3a98a4356f27
