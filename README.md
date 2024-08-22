@@ -2,6 +2,8 @@
 
 Welcome to the Project Counter! This project is a basic counter built using HTML, CSS, and JavaScript. It’s designed to help you understand the fundamentals of web development while providing a useful tool to count up or down.
 
+visit the website here: https://adavilalith.github.io/Project_Counter/
+
 ## Features
 
 - **Increment and Decrement**: Buttons to increase or decrease the counter value.
