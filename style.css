@@ -43,7 +43,6 @@
     margin:0;
     display:flex;
 }
-
 #counter{
     display:block;
     text-align:center;
@@ -88,6 +87,10 @@
         max-width: 100%;
         width: 100%;
         text-align: center;
+    }
+    #main{
+    padding: 20px 250px;
+
     }
     #history{
     line-height: 250%;
